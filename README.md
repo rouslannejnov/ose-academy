@@ -1,2 +1,0 @@
-# ose-academy
-TEST
